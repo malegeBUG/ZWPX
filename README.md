@@ -1,4 +1,5 @@
 # 中文排序
+后台数据没分组，排序，UI需要索引。手动排序
 ``` Object-C
 //主要代码
 -(NSMutableArray*)SortPinYin:(NSArray*)oldArr{
